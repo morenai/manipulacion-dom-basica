@@ -138,3 +138,6 @@ Todas las respuestas son correctas.
 5.
 ¿Cómo seleccionas desde JavaScript a un elemento HTML con el id perry?
 document.querySelector('#perry')
+
+a ver si esto se actualiza
+a lo mejor no
